@@ -52,10 +52,26 @@ a {
     display: inline;
 }
 
+#awardsimg {
+    height: 100px;
+    width: 100px;
 
+}
 
-#awardsimg{
-height: 100px;
-width: 100px;
+#img {
+    height: 500px;
+    width: 500px;
+}
 
+#internationalday_head {
+    font-size: 20px;
+    padding: 6px 20px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    display: inline-block;
+}
+
+#internationalday_head {
+    float: right;
 }
